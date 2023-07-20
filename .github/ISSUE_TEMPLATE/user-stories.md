@@ -1,22 +1,4 @@
----
-name: User Stories
-about: This template is to create user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: This template is for creating user stories.
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**As a** [role]  
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
